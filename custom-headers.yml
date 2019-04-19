@@ -1,0 +1,4 @@
+- pattern: "**/*"
+  headers: 
+    - key: "Set-Cookie"
+      value: "Cat=Boy"
